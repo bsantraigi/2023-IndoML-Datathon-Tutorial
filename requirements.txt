@@ -1,0 +1,8 @@
+datasets
+transformers
+accelerate
+peft
+pandas
+numpy
+matplotlib
+seaborn
