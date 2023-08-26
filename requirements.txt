@@ -1,8 +1,11 @@
 datasets
 transformers
 accelerate
+bitsandbytes
 peft
 pandas
 numpy
 matplotlib
 seaborn
+scipy
+click
